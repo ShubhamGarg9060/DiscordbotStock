@@ -2,7 +2,6 @@
 
 Discord Bot for Stocks is a bot for the Discord platform that provides us information about stocks of various companies in the form of messages in selected discord channels and direct messages. The stock market is a volatile one and one needs to stay updated about the stock rates to step up one’s trading capabilities.
 
-
 Our bot will support the following functionalities:
 
   updates of stock information everytime user queries.
