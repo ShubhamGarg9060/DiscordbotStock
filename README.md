@@ -13,7 +13,8 @@ Our bot will support the following functionalities:
     Stock history of multiple companies and more.
 
 ## Pre-requisite Skills
-[Python](https://www.python.org)<br>
+[Python](https://www.python.org)
+
 ##Post Project Skills
 [Pandas](https://pandas.pydata.org/docs/getting_started/overview.html#:~:text=pandas%20is%20a%20Python%20package,world%20data%20analysis%20in%20Python.)
 [Plot.ly](https://plotly.com)
@@ -69,7 +70,7 @@ It is always a good practice to look up a company's history in the stock market 
 [A comprehensive guide to downloading stock prices in Python](https://towardsdatascience.com/a-comprehensive-guide-to-downloading-stock-prices-in-python-2cd93ff821d4)<br>
 [Scrapping Yahoo Finance at regular intervals](https://stackoverflow.com/questions/61976027/scrapping-yahoo-finance-at-regular-intervals)<br>
 [Plot CSV Data | Python0](https://plotly.com/python/plot-data-from-csv/)<br>
-[Static Image Export | Python](https://plotly.com/python/static-image-export/)
+[Static Image Export | Python](https://plotly.com/python/static-image-export/)<br>
 For curious readers: [Learn how to create beautiful and insightful charts with Python](https://towardsdatascience.com/plotting-with-python-c2561b8c0f1f)<br>
 [Discord Developer Portal — Documentation — Intro](https://discord.com/developers/docs/intro)<br>
 [How to Make a Discord Bot in Python – Real Python](https://realpython.com/how-to-make-a-discord-bot-python/)<br>
