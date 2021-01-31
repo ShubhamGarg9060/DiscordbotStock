@@ -1,6 +1,6 @@
 # Discord Bot for Stocks
 
-[Discord](https://discord.com/) Bot for Stocks is a bot for the Discord platform that provides us information about stocks of various companies in the form of messages in selected discord channels and direct messages. The stock market is a volatile one and one needs to stay updated about the stock rates to step up one’s trading capabilities.
+[Discord](https://discord.com/) Bot for Stocks is a bot for the `Discord` platform that provides us information about stocks of various companies in the form of messages in selected discord channels and direct messages. The stock market is a volatile one and one needs to stay updated about the stock rates to step up one’s trading capabilities.
 
 Our bot will support the following functionalities:
 
@@ -13,11 +13,11 @@ Our bot will support the following functionalities:
     Stock history of multiple companies and more.
 
 ## Pre-requisite Skills
-[Python](https://www.python.org)
+[Python](https://www.python.org)<br>
 
-##Post Project Skills
-[Pandas](https://pandas.pydata.org/docs/getting_started/overview.html#:~:text=pandas%20is%20a%20Python%20package,world%20data%20analysis%20in%20Python.)
-[Plot.ly](https://plotly.com)
+## Post Project Skills
+[Pandas](https://pandas.pydata.org/docs/getting_started/overview.html#:~:text=pandas%20is%20a%20Python%20package,world%20data%20analysis%20in%20Python.)<br>
+[Plot.ly](https://plotly.com)<br>
 
 ## Usage :
 ```
