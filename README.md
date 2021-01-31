@@ -1,21 +1,20 @@
-# DiscordbotStock
+# Discord Bot for Stocks
 
-`[Discord](https://discord.com/) Bot for Stocks` is a bot for the Discord platform that provides us information about stocks of various companies in the form of messages in selected discord channels and direct messages. The stock market is a volatile one and one needs to stay updated about the stock rates to step up one’s trading capabilities.
+[Discord](https://discord.com/) Bot for Stocks is a bot for the Discord platform that provides us information about stocks of various companies in the form of messages in selected discord channels and direct messages. The stock market is a volatile one and one needs to stay updated about the stock rates to step up one’s trading capabilities.
 
 Our bot will support the following functionalities:
 
-  updates of stock information everytime user queries.
+   1.Updates of stock information everytime user queries.
 
-  Query commands for information such as:
+   2.Query commands for information such as:
   
     Stock details of company X for last 6 months,
     Details of multiple companies plotted on the same graph for easy comparison,
     Stock history of multiple companies and more.
 
-## Pre-requisite skills <br>
+## Pre-requisite Skills
 [Python](https://www.python.org)<br>
 ##Post Project Skills
-=====================
 [Pandas](https://pandas.pydata.org/docs/getting_started/overview.html#:~:text=pandas%20is%20a%20Python%20package,world%20data%20analysis%20in%20Python.)
 [Plot.ly](https://plotly.com)
 
@@ -26,8 +25,9 @@ Our bot will support the following functionalities:
 3.Install all the prerequisites using : pip install -r prerequisites.txt
 4.Fetch the respective CSV files containing the required stock details of a company run: stock.py
 5.Sort out the required data and plot it using plot.ly.
-6.Set up a Discord bot on your server and add the necessary code for configuring regular updates in specific channels of bot.py:python bot.py [companycode]
-7.Add various commands to your bot, which will enable the users to get trade data, based on specific queries.
+6.Set up a Discord bot on your server and add the necessary code to configure regular updates in specific channels.
+7.Run bot.py:python bot.py [companycode]
+8.Add various commands to your bot, which will enable the users to get trade data, based on specific queries.
 ```
 
 ## Prototyping the Discord stock bot
