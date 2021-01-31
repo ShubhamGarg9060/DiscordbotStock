@@ -1,0 +1,5 @@
+pandas
+yfinance
+orca/kaleido
+plotly
+dotenv
