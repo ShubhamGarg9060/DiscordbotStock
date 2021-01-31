@@ -31,7 +31,7 @@ Our bot will support the following functionalities:
 8.Add various commands to your bot, which will enable the users to get trade data, based on specific queries.
 ```
 
-## Prototyping the Discord stock bot
+## Prototyping the Discord stock bot :
 1.Import the `yfinance` module in a Python script and download a `CSV` file containing stock details of your preferred company.
 
 2.Plot the closing price against the Datetime using `Plot.ly` and export the plotting as a `PNG` file.
@@ -40,7 +40,7 @@ Our bot will support the following functionalities:
 
 4.Write a sample Python script for the bot. The script needs to access the bot using it’s `token` and send the earlier generated image to a specific channel in your server.
 
-## Set up EOD stock updates in the form of text
+## Set up EOD stock updates in the form of text :
 The first thing that our bot needs is a way to give us daily conclusive updates of the stock information of a company. To achieve this, we need to set up a mechanism which provides daily End-Of-Day stock updates, w.r.t. a company’s trading data, in the form of text messages.
 
 1.Fetch the `CSV file` containing the stock details of a company for a particular date using the yfinance module.
@@ -52,7 +52,7 @@ The first thing that our bot needs is a way to give us daily conclusive updates 
 4.Provide hourly updates of a company’s trading status
 
 
-## Retrieve historical stock data
+## Retrieve historical stock data :
 
 It is always a good practice to look up a company's history in the stock market before making any investment. 
 
